@@ -1,0 +1,26 @@
+{
+  "name": "tsmlb",
+  "version": "0.0.0",
+  "description": "ES6 template string tag for multi-line blocks of text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/spaces.js && node ./test/tabs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misteroneill/tsmlb.git"
+  },
+  "keywords": [
+    "template",
+    "templatestring",
+    "es6",
+    "multi-line",
+    "outdent"
+  ],
+  "author": "Pat O'Neill <pgoneill@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/misteroneill/tsmlb/issues"
+  },
+  "homepage": "https://github.com/misteroneill/tsmlb#readme"
+}
