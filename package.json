@@ -1,6 +1,6 @@
 {
   "name": "tsmlb",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ES6 template string tag for multi-line blocks of text.",
   "main": "index.js",
   "scripts": {
